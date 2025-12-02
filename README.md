@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @samnakis
-- 👀 I’m interested in finding a job in UX Design or Software Engineering
-- 🌱 I’m currently learning about Parallel Algorithms and Artificial Intelligence
+- 👀 I’m interested in finding a job in UX Design, Software Engineering, or Technical Consulting
 - 📫 How to reach me: sam.nakis1@gmail.com
